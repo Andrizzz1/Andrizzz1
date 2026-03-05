@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Andrizzz1/Andrizzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andrei**, a Computer Engineering student and aspiring software developer.
 
-Here are some ideas to get you started:
+I enjoy challenging myself by building websites and writing Python programs.  
+If an idea interests me, I like turning it into something real and functional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **Python, JavaScript, HTML, and Tailwind CSS**.  
+I also enjoy working on small hardware projects, especially with Arduino.
+
+I’m constantly learning, experimenting, and improving my skills through personal projects.
+
+**Fun Facts:**
+- One Piece is my favorite anime ☠️
+- I really like eating french fries 🍟
+
+**Hobbies:**
+- Watching anime  
+- Coding and building websites  
+- Creating Arduino and electronics projects
