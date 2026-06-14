@@ -5,7 +5,7 @@ I'm **Andrei**, a Computer Engineering student and aspiring software developer.
 I enjoy challenging myself by building websites and writing Python programs.  
 If an idea interests me, I like turning it into something real and functional.
 
-My main tech stack is **Python, JavaScript, HTML, and Tailwind CSS**.  
+My main tech stack is **Python, JavaScript, HTML, Tailwind CSS and TypeScript**.  
 I also enjoy working on small hardware projects, especially with Arduino.
 
 I’m constantly learning, experimenting, and improving my skills through personal projects.
